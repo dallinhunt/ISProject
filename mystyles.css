@@ -1,0 +1,49 @@
+ul{
+    font-size: 15px;
+    font-weight: lighter;
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+body{
+background-color: antiquewhite;
+}
+a{
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.common{
+
+    background-color: rgb(212, 212, 210);
+    border: 2px solid white;
+    position: absolute
+
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 500px;
+}
+
+.main{
+    top: 505px;
+    left: 5px;
+    right: 5px;
+    height: 500px;
+
+
+}
+
+.footer{
+    top: 1005px;
+    left: 5px;
+    right: 5px;
+    height: 1500px;
+
+
+}
